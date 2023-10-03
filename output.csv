@@ -1,0 +1,67 @@
+,Item Name,Today,Month To Date (MTD),Year To Date (YTD)
+S.No,Rent & Occupancy Tax,,,
+1,Total Gross Rent (W/ Exemptions),1783.74,5402.89,169380.14
+2,     Room Rental,1783.74,5402.89,169321.15
+3,     No-Show/Cancel Rent,0,0,58.99
+S.No,~State Sales Tax (7.2500%),,,
+1,     Taxable Rent,1302.82,4257.08,101136.3
+2,     Exempted Rent,480.92,1145.81,68177.07
+3,     Non-Taxable Rent,0,0,66.77
+4,     Tax,94.45,308.63,7332.28
+5,     Exempted Tax,34.87,83.07,4942.75
+6,     Tax Only Adjustment,3.73,7.45,-7.28
+S.No,~City Tax (3.0000%),,,
+1,     Taxable Rent,1783.74,5402.89,169313.37
+2,     Exempted Rent,0,0,0
+3,     Non-Taxable Rent,0,0,66.77
+4,     Tax,53.51,162.09,5079.4
+5,     Exempted Tax,0,0,0
+6,     Tax Only Adjustment,1.54,3.08,-3.01
+S.No,~County Tax (3.0000%),,,
+1,     Taxable Rent,1783.74,5402.89,169313.37
+2,     Exempted Rent,0,0,0
+3,     Non-Taxable Rent,0,0,66.77
+4,     Tax,53.51,162.09,5079.4
+5,     Exempted Tax,0,0,0
+6,     Tax Only Adjustment,1.54,3.08,-3.01
+S.No,Other Charges,,,
+1,Daily Pet fee,0,15,1337.49
+2,Week Pet Fee,0,0,1732.5
+3,Room Charge for early check in,0,0,35
+4,Damage to the room,0,0,553.86
+5,Smoked in the room,0,0,300
+6,Total,0,15,3958.85
+S.No,Payment,,,
+1,Cash,444.48,1168.97,32268.3
+2,Check,0,0,44232.67
+3,Visa,787.1,1661.53,72086.39
+4,Master Card,107.58,902.24,42464.55
+5,American Express,0,0,126.39
+6,Total,1339.16,3732.74,191178.3
+S.No,Others,,,
+1,Enviromental Fee,0,0,13.5
+2,Total,0,0,13.5
+S.No,Business Source Payment (FrontDesk),,,
+1,Behavior Healthcare Partners,0,0,17101.67
+2,St. Vincent De Paul,0,0,13596.8
+3,Licking County Coalition of Housing,467.39,467.39,6977.73
+4,Licking County Job and Family Services,0,0,800.33
+5,Coalition of Care,0,0,2078.22
+6,Licking County Veterans Services Commission,0,0,3698.3
+7,Licking County Developmental Disabilities,0,0,2591.95
+8,LV Church of Christ,0,0,125.06
+9,Total,467.39,467.39,46830.77
+S.No,Room Summary,,,
+1,Total Rooms,44,132,4092
+2,V/Maint Rooms,2,4,215
+3,R/Ready Rooms,0,0,0
+4,V/Clean Rooms,0,0,0
+5,V/Ready Rooms,12,44,1068
+6,O/Clean Rooms,28,82,2756
+7,V/Dirty Rooms,2,2,53
+S.No,Statistics,,,
+1,Room Sold (With Occupancy),28,82,2756
+2,Room Sold (With Out Occupancy),28,82,2757
+3,Occupancy Rate (%),66.67,64.06,71.09
+4,Average Daily Rate (ADR),(1783.74 / 28)        63.71,(5402.89 / 82)        65.89,(169265.93 / 2756)        61.42
+5,Revenue Per Available Room,42.47,42.21,43.66
