@@ -41,6 +41,9 @@ for index, row in df.iterrows():
 df.index=index_values
 df.index.values[0] = '' #set the first row's index to an empty string
 
+#Remove index when Total is encountered
+df.index = df.apply(lambda row: '' if row[0] == 'Total' else row.name, axis=1)
+
 
 #highlight rows
 
